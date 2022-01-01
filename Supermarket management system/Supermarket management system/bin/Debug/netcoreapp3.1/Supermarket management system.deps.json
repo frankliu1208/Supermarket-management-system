@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Supermarket management system/1.0.0": {
+        "runtime": {
+          "Supermarket management system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Supermarket management system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

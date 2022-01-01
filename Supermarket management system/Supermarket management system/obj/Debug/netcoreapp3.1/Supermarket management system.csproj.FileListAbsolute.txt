@@ -1,0 +1,14 @@
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\bin\Debug\netcoreapp3.1\Supermarket management system.exe
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\bin\Debug\netcoreapp3.1\Supermarket management system.deps.json
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\bin\Debug\netcoreapp3.1\Supermarket management system.runtimeconfig.json
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\bin\Debug\netcoreapp3.1\Supermarket management system.runtimeconfig.dev.json
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\bin\Debug\netcoreapp3.1\Supermarket management system.dll
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\bin\Debug\netcoreapp3.1\Supermarket management system.pdb
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.csproj.AssemblyReference.cache
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.AssemblyInfoInputs.cache
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.AssemblyInfo.cs
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.csproj.CoreCompileInputs.cache
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.dll
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.pdb
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\Supermarket management system\obj\Debug\netcoreapp3.1\Supermarket management system.genruntimeconfig.cache

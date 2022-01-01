@@ -1,0 +1,14 @@
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.exe
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.deps.json
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.runtimeconfig.json
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.runtimeconfig.dev.json
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.dll
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.pdb
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.csproj.AssemblyReference.cache
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.AssemblyInfoInputs.cache
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.AssemblyInfo.cs
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.csproj.CoreCompileInputs.cache
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.dll
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.pdb
+C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.genruntimeconfig.cache
