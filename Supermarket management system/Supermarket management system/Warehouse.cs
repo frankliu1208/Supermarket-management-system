@@ -6,10 +6,10 @@ namespace Supermarket_management_system
 {
     class Warehouse
     {
-        List<List<ProductBase>> list = new List<List<ProductBase>>(); // 通过泛型集合存数据, 泛型集合嵌套泛型集合
+        List<List<ProductBase>> list = new List<List<ProductBase>>(); 
 
 
-        public void ShowPros()  //向用户展示货物
+        public void ShowPros()  //向用户展示货物 Show products to the User
         {
             foreach (var item in list)
             {
@@ -19,9 +19,9 @@ namespace Supermarket_management_system
 
 
 
-        public Warehouse()    //创建仓库对象时，会调用这个构造函数，创建4个货架, 此时货架上没有货物
+        public Warehouse()    //When creating the warehouse object, invode this contruction function, creates 4 shelves
         {
-            list.Add(new List<ProductBase>());  // 添加的是泛型集合
+            list.Add(new List<ProductBase>());  
             list.Add(new List<ProductBase>());
             list.Add(new List<ProductBase>());
             list.Add(new List<ProductBase>());
@@ -30,9 +30,9 @@ namespace Supermarket_management_system
         /// <summary>
         /// purchase the goods
         /// </summary>
-        /// <param name="strType"></param>
-        /// <param name="count"></param>
-        public void PurchaseGood(string strType, int count)     //进货的类型，进货的数量
+        /// <param name="strType">Type of goods</param>
+        /// <param name="count">The number of goods that is purchased</param>
+        public void PurchaseGood(string strType, int count)     
         {
             for(int i=0; i < count; i++)
             {
@@ -42,7 +42,7 @@ namespace Supermarket_management_system
                         break;
                     case "SamSung": list[1].Add(new SamSung(Guid.NewGuid().ToString(), 2000, "SamSung cell phone 2"));
                         break;
-                    case "JiangYou": list[2].Add(new SoySauce(Guid.NewGuid().ToString(), 200, "JiangYou3"));
+                    case "SoySauce": list[2].Add(new SoySauce(Guid.NewGuid().ToString(), 200, "SoySause3"));
                         break;
                     case "Banana": list[3].Add(new Banana(Guid.NewGuid().ToString(), 500, "Banana4"));
                         break;

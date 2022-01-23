@@ -6,37 +6,37 @@ namespace Supermarket_management_system
 {
     class SuperMarket
     {
-        // 创建仓库对象
+        // Create warehouse object
         Warehouse ck = new Warehouse();
 
         /// <summary>
-        /// 创建超市对象时，给仓库的货架上导入货物
+        ///  When creating object of supermarket class, put the products on the shelf
         /// </summary>
-        public SuperMarket()  //创建超市对象时，仓库中有货了
+        public SuperMarket() 
         {
             ck.PurchaseGood("Acer", 1000);
             ck.PurchaseGood("SamSung", 1000);
-            ck.PurchaseGood("JiangYou", 1000);
+            ck.PurchaseGood("SoySauce", 1000);
             ck.PurchaseGood("Banana", 1000);
         }
 
-        // 询问用户买什么
+        // Ask the user what they want to buy
         public void AskBuying()
         {
             Console.WriteLine("Herzlich Willkommen, what do you need");
-            Console.WriteLine(" we have Acer, Samsung, Jiangyou, Banana");
+            Console.WriteLine(" we have Acer, Samsung, Soysause, Banana");
             string strType = Console.ReadLine();
             Console.WriteLine("How many do you need");
             int count = Convert.ToInt32(Console.ReadLine());
 
-            //到仓库取货
+            //Go to the warehouse to fetch the products
             ProductBase[] pros = ck.TakeGoods(strType, count);
 
-            // 计算价钱
+            // Calculate the price
             double realMoney = GetMoney(pros);
             Console.WriteLine("total money you should pay is {0}", realMoney);
 
-            //打折的方式
+            //Method of discount
             Console.WriteLine("please choose the type of discount: 1-- no discount, 2-- 90%, 3--85%, 4--buy 300 euro get 50 euro, 5--buy 500 euro get 100 euro");
             string input = Console.ReadLine();
 
@@ -51,7 +51,7 @@ namespace Supermarket_management_system
         /// </summary>
         /// <param name="input"></param>
         /// <returns> return object of DiscountBase, but actually it is child object</returns>
-        public DiscountBase GetCal(string input)   // 返回父类类型对象，实际是子类
+        public DiscountBase GetCal(string input)   
         {
             DiscountBase cal = null;
             switch (input)
@@ -86,7 +86,7 @@ namespace Supermarket_management_system
                 realMoney += pros[i].Price;
             }
 
-            return realMoney;  //货物的总价
+            return realMoney;  //get the total price of the goods
         }
 
         public void ShowPros()

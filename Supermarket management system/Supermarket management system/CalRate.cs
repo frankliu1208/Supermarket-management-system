@@ -18,7 +18,7 @@ namespace Supermarket_management_system
             set;
         }
 
-        public CalRate(double rate)  //创建对象时，传入折扣率，并将折扣率赋值给属性Rate
+        public CalRate(double rate)  
         {
             this.Rate = rate;    
         }

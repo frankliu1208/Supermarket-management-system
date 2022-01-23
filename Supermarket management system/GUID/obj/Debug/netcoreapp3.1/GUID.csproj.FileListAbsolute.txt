@@ -12,3 +12,16 @@ C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management syste
 C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.dll
 C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.pdb
 C:\Users\hliu\Desktop\New folder\csharp\C# Lao Zhao\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.genruntimeconfig.cache
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.exe
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.deps.json
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.runtimeconfig.json
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.runtimeconfig.dev.json
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.dll
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\bin\Debug\netcoreapp3.1\GUID.pdb
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.csprojAssemblyReference.cache
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.AssemblyInfoInputs.cache
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.AssemblyInfo.cs
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.csproj.CoreCompileInputs.cache
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.dll
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.pdb
+F:\Java learning\OwnProject\Supermarket management system-20211101T103839Z-001\Supermarket management system\GUID\obj\Debug\netcoreapp3.1\GUID.genruntimeconfig.cache

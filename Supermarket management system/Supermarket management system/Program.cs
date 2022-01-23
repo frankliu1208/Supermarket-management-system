@@ -8,7 +8,7 @@ namespace Supermarket_management_system
         {
             SuperMarket sm = new SuperMarket();
             sm.ShowPros();
-            sm.AskBuying();  //用户交互
+            sm.AskBuying();  //Interact with the user
 
             Console.ReadKey();
         }
