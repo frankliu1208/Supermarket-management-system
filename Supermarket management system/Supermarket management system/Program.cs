@@ -6,7 +6,7 @@ namespace Supermarket_management_system
     {
         static void Main(string[] args)
         {
-            SuperMarket sm = new SuperMarket();
+            SuperMarket sm = new SuperMarket();  // this is the main program
             sm.ShowPros();
             sm.AskBuying();  //Interact with the user
 
